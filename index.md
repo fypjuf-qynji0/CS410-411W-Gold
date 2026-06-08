@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Gold Star Homepage
 ---
 
 # Gold Star
@@ -9,5 +9,5 @@ A web-based habit-building and time management platform designed specifically fo
 
 ## Navigation
 
-- [Presentations](presentations.md)
-- [Team Bio](team-bio.md)
+- [Presentations](presentations..html)
+- [Team Bio](team-bio..html)
