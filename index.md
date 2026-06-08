@@ -9,5 +9,5 @@ A web-based habit-building and time management platform designed specifically fo
 
 ## Navigation
 
-- [Presentations](presentations..html)
-- [Team Bio](team-bio..html)
+- [Presentations](presentations.html)
+- [Team Bio](team-bio.html)
