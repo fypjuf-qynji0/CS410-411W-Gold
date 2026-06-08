@@ -11,3 +11,4 @@ A web-based habit-building and time management platform designed specifically fo
 
 - [Presentations](presentation.html)
 - [Team Bio](team-bio.html)
+- [Lab 1 Outline](lab.html)
